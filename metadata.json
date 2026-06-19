@@ -1,0 +1,6 @@
+{
+  "name": "Uber Find My Ride",
+  "description": "An interactive, dynamic proof-of-concept simulator solving Uber's complex urban pickup problems: featuring Designated Smart Hub Pickup Stop routing and immersive 360-degree real-time landmark perspective.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
